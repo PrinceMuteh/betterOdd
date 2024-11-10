@@ -1,0 +1,302 @@
+[
+  {
+    "id": "101",
+    "season": "Premier League",
+    "country": "England",
+    "logo": "https://static.livescore.com/competition/high/2023-spain-laliga.png",
+    "details": [
+      {
+        "id": "101a",
+        "team1": "Arsenal",
+        "team1logo": "https://lsm-static-prod.livescore.com/medium/enet/9825.png",
+        "team2": "Chelsea",
+        "team2logo": "https://lsm-static-prod.livescore.com/medium/enet/9850.png",
+        "time": "19:45",
+        "odds": [
+          {
+            "site": "Bet9ja",
+            "odd1": "1.70",
+            "oddX": "3.50",
+            "odd2": "2.90"
+          },
+          {
+            "site": "1xBet",
+            "odd1": "1.75",
+            "oddX": "3.45",
+            "odd2": "3.00"
+          },
+          {
+            "site": "Bet365",
+            "odd1": "1.72",
+            "oddX": "3.55",
+            "odd2": "2.95"
+          }
+        ]
+      },
+      {
+        "id": "101a",
+        "team1": "Arsenal",
+        "team1logo": "https://lsm-static-prod.livescore.com/medium/enet/9825.png",
+        "team2": "Chelsea",
+        "team2logo": "https://lsm-static-prod.livescore.com/medium/enet/9850.png",
+        "time": "19:45",
+        "odds": [
+          {
+            "site": "Bet9ja",
+            "odd1": "1.70",
+            "oddX": "3.50",
+            "odd2": "2.90"
+          },
+          {
+            "site": "1xBet",
+            "odd1": "1.75",
+            "oddX": "3.45",
+            "odd2": "3.00"
+          },
+          {
+            "site": "Bet365",
+            "odd1": "1.72",
+            "oddX": "3.55",
+            "odd2": "2.95"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "season": "La Liga",
+    "country": "Spain",
+    "logo": "https://static.livescore.com/competition/high/2023-spain-laliga.png",
+    "details": [
+      {
+        "id": "102a",
+        "team1": "Atletico Madrid",
+        "team1logo": "https://lsm-static-prod.livescore.com/medium/enet/9830.png",
+        "team2": "Sevilla",
+        "team2logo": "https://lsm-static-prod.livescore.com/medium/enet/9890.png",
+        "time": "21:00",
+        "odds": [
+          {
+            "site": "Bet9ja",
+            "odd1": "1.85",
+            "oddX": "3.60",
+            "odd2": "3.20"
+          },
+          {
+            "site": "1xBet",
+            "odd1": "1.88",
+            "oddX": "3.50",
+            "odd2": "3.25"
+          },
+          {
+            "site": "Bet365",
+            "odd1": "1.83",
+            "oddX": "3.65",
+            "odd2": "3.15"
+          }
+        ]
+      },
+      {
+        "id": "102a",
+        "team1": "Atletico Madrid",
+        "team1logo": "https://lsm-static-prod.livescore.com/medium/enet/9830.png",
+        "team2": "Sevilla",
+        "team2logo": "https://lsm-static-prod.livescore.com/medium/enet/9890.png",
+        "time": "21:00",
+        "odds": [
+          {
+            "site": "Bet9ja",
+            "odd1": "1.85",
+            "oddX": "3.60",
+            "odd2": "3.20"
+          },
+          {
+            "site": "1xBet",
+            "odd1": "1.88",
+            "oddX": "3.50",
+            "odd2": "3.25"
+          },
+          {
+            "site": "Bet365",
+            "odd1": "1.83",
+            "oddX": "3.65",
+            "odd2": "3.15"
+          }
+        ]
+      },
+      {
+        "id": "102a",
+        "team1": "Atletico Madrid",
+        "team1logo": "https://lsm-static-prod.livescore.com/medium/enet/9830.png",
+        "team2": "Sevilla",
+        "team2logo": "https://lsm-static-prod.livescore.com/medium/enet/9890.png",
+        "time": "21:00",
+        "odds": [
+          {
+            "site": "Bet9ja",
+            "odd1": "1.85",
+            "oddX": "3.60",
+            "odd2": "3.20"
+          },
+          {
+            "site": "1xBet",
+            "odd1": "1.88",
+            "oddX": "3.50",
+            "odd2": "3.25"
+          },
+          {
+            "site": "Bet365",
+            "odd1": "1.83",
+            "oddX": "3.65",
+            "odd2": "3.15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "season": "Serie A",
+    "country": "Italy",
+    "logo": "https://static.livescore.com/competition/high/2023-spain-laliga.png",
+    "details": [
+      {
+        "id": "103a",
+        "team1": "Juventus",
+        "team1logo": "https://lsm-static-prod.livescore.com/medium/enet/9885.png",
+        "team2": "AC Milan",
+        "team2logo": "https://lsm-static-prod.livescore.com/medium/enet/9820.png",
+        "time": "20:45",
+        "odds": [
+          {
+            "site": "Bet9ja",
+            "odd1": "1.90",
+            "oddX": "3.40",
+            "odd2": "3.10"
+          },
+          {
+            "site": "1xBet",
+            "odd1": "1.95",
+            "oddX": "3.35",
+            "odd2": "3.15"
+          },
+          {
+            "site": "Bet365",
+            "odd1": "1.92",
+            "oddX": "3.45",
+            "odd2": "3.12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "season": "Bundesliga",
+    "country": "Germany",
+    "logo": "https://static.livescore.com/competition/high/2023-spain-laliga.png",
+    "details": [
+      {
+        "id": "104a",
+        "team1": "Bayern Munich",
+        "team1logo": "https://lsm-static-prod.livescore.com/medium/enet/9814.png",
+        "team2": "Borussia Dortmund",
+        "team2logo": "https://lsm-static-prod.livescore.com/medium/enet/9826.png",
+        "time": "17:30",
+        "odds": [
+          {
+            "site": "Bet9ja",
+            "odd1": "1.55",
+            "oddX": "3.90",
+            "odd2": "4.00"
+          },
+          {
+            "site": "1xBet",
+            "odd1": "1.58",
+            "oddX": "3.85",
+            "odd2": "4.10"
+          },
+          {
+            "site": "Bet365",
+            "odd1": "1.60",
+            "oddX": "4.00",
+            "odd2": "4.20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "105",
+    "season": "Ligue 1",
+    "country": "France",
+    "logo": "https://static.livescore.com/competition/high/2023-spain-laliga.png",
+    "details": [
+      {
+        "id": "105a",
+        "team1": "Paris Saint-Germain",
+        "team1logo": "https://lsm-static-prod.livescore.com/medium/enet/9835.png",
+        "team2": "Lyon",
+        "team2logo": "https://lsm-static-prod.livescore.com/medium/enet/9894.png",
+        "time": "20:00",
+        "odds": [
+          {
+            "site": "Bet9ja",
+            "odd1": "1.40",
+            "oddX": "4.20",
+            "odd2": "5.00"
+          },
+          {
+            "site": "1xBet",
+            "odd1": "1.42",
+            "oddX": "4.15",
+            "odd2": "5.10"
+          },
+          {
+            "site": "Bet365",
+            "odd1": "1.45",
+            "oddX": "4.25",
+            "odd2": "5.20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "season": "Eredivisie",
+    "country": "Netherlands",
+    "logo": "https://static.livescore.com/competition/high/2023-spain-laliga.png",
+    "details": [
+      {
+        "id": "106a",
+        "team1": "Ajax",
+        "team1logo": "https://lsm-static-prod.livescore.com/medium/enet/9818.png",
+        "team2": "PSV Eindhoven",
+        "team2logo": "https://lsm-static-prod.livescore.com/medium/enet/9842.png",
+        "time": "18:00",
+        "odds": [
+          {
+            "site": "Bet9ja",
+            "odd1": "1.75",
+            "oddX": "3.80",
+            "odd2": "3.50"
+          },
+          {
+            "site": "1xBet",
+            "odd1": "1.78",
+            "oddX": "3.75",
+            "odd2": "3.55"
+          },
+          {
+            "site": "Bet365",
+            "odd1": "1.80",
+            "oddX": "3.85",
+            "odd2": "3.60"
+          }
+        ]
+      }
+    ]
+  }
+]
